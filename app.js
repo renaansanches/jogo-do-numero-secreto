@@ -5,7 +5,7 @@
 
 //Criar variável de número aleatório:
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
@@ -54,7 +54,7 @@ function verificarChute() {
 
 //Gerar número aleatório
 function gerarNumeroAleatorio() {
-    let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1); //Gerar número de 1 a 10
+    let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1); //Gerar número de 1 a 50
     let quantidadeDeElementoNaLista = listaDeNumerosSorteados.length; //length = verificar o tamanho ou quantidade da lista ou da variável.
 
     if (quantidadeDeElementoNaLista == numeroLimite) {
