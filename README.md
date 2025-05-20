@@ -1,7 +1,7 @@
 <h1> Jogo do número secreto </h1>
 
 <h2> Sobre <h2>
-<p> Projeto para escolher um número de 0 à 100, no final após o acerto, irá mostrar quantas tentativas foram realizadas e também uma mensagem de parabéns! </p>
+<p> Projeto narrado por inteligência artificial para o usuário escolher um número de 0 à 100, no final após o acerto, irá mostrar quantas tentativas foram realizadas e também uma mensagem de parabéns! </p>
   
 ## 🚀 Tecnologias
 <div>
